@@ -1,32 +1,42 @@
 # 👋 Hi, I'm Morris (a.k.a. realmorrisliu)
 
-Welcome to my GitHub!  
-I spend my days wrangling Rust types, writing React components that don’t break (often), and occasionally telling Go and Python to behave.
+I build Rust tools, agent runtimes, and developer-focused software in the open.
+I like turning complex ideas into practical, type-safe, and composable projects.
 
 ## 👨‍💻 About Me
 
-- 🦀 Rust is my main thing — type safety is my love language
-- ⚛️ React for frontend magic, Tauri for desktop sauce
-- 🛠️ Go & Python when the job needs to get done fast
-- 📦 Currently working on: [openrouter-rs](https://github.com/realmorrisliu/openrouter-rs)  
-  A type-safe SDK for [OpenRouter.ai](https://openrouter.ai) — because LLM APIs shouldn't feel like guessing games
-- 🦭 And [sealbox](https://github.com/realmorrisliu/sealbox)
-  A Simple Secret Storage Service – self-hosted and developer-friendly.
-- 🎇 Also building: **Kira** — an AI-powered second brain  
-  _Catch thoughts before they fade._
+- 🦀 Rust is my home base for systems and SDK work
+- 🤖 Interested in autonomous agents, runtime design, and CLI-first workflows
+- 🧰 Pragmatic across TypeScript, Go, and Python when they fit the problem
+- 🎸 Outside code: bass and photography
+
+## 🔭 Current Focus
+
+- Building [Alan](https://github.com/realmorrisliu/Alan), a Rust-native Agent Runtime
+- Improving agent workflows around `Human Defines → Agent Executes → Human Owns`
+- Writing and sharing ideas at [realmorrisliu.com](https://realmorrisliu.com)
+
+## 🚀 Core Projects
+
+- [openrouter-rs](https://github.com/realmorrisliu/openrouter-rs): Type-safe OpenRouter Rust SDK for reliable LLM integration
+- [Alan](https://github.com/realmorrisliu/Alan): Rust-native Agent Runtime for autonomous, policy-aware execution
+- [funcall](https://github.com/realmorrisliu/funcall): `#[funcall]` macro turning Rust functions into JSON-callable tools
+- [sealbox](https://github.com/realmorrisliu/sealbox): Simple, self-hosted secret storage service for developers
+- [founders-fight-club](https://github.com/realmorrisliu/founders-fight-club): Godot 4.2 2D pixel-art fighting game prototype
 
 ## 🧰 Tech Toolbox
 
-`Rust` • `TypeScript` • `React` • `Go` • `Python`  
-`Axum` • `Tauri` • `TailwindCSS` • `Docker` • `Kubernetes` • `Postgres` • `Redis`
+`Rust` • `TypeScript` • `Go` • `Python` • `Astro` • `React`  
+`Kubernetes` • `Postgres` • `Qdrant` • `Kafka` • `ClickHouse` • `Docker`
 
-## 🎸 Fun facts
+## 🤝 Open Source
 
-- 🎶 Music fuels my flow — jazz for the soul, funk for the groove, and rock for the fire.
-- 🎸 Currently playing bass and loving it
+I care about readable code, clear docs, and useful abstractions.
+Issues, ideas, and PRs are always welcome.
 
 ## 📫 Reach Me
 
+- Website: [realmorrisliu.com](https://realmorrisliu.com)
 - GitHub: [@realmorrisliu](https://github.com/realmorrisliu)
 - X / Twitter: [@realmorrisliu](https://x.com/realmorrisliu)
 - Email: morrisliu1994@outlook.com
